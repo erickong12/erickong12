@@ -1,5 +1,12 @@
 ### Hi there 👋
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=erickong12&theme=soft-green&hide_border=true"></img>
 
+My Name Eric Agustian Winardi, you can call me Eric
+
+### 💬 About me
+someone who has an interest in coding😄
+I'm good at using laravel framework and still learning new things <br>
+I love coding and I am desperate for opportunities to learn more exciting technologies.
 <!--
 **erickong12/erickong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
