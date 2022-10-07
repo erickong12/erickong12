@@ -5,7 +5,7 @@ My Name Eric Agustian Winardi, you can call me Eric
 ### 💬 About me
 
 someone who has an interest in coding😄
-I'm good at using laravel framework and still learning new things <br>
+I'm good at using Laravel and SpringBoot framework and still learning new things <br>
 I love coding and I am desperate for opportunities to learn more exciting technologies.
 <br>
 <br>
