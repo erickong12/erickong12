@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img width='20' src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 
 My Name Eric Agustian Winardi, you can call me Eric
 
